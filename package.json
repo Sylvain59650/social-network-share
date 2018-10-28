@@ -1,6 +1,6 @@
 {
   "name": "social-network-share",
-  "version": "0.8.0",
+  "version": "0.6.0",
   "description": "Share Web Pages",
   "main": "distrib/js/social-network-share.min.js",
   "scripts": {
