@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/bundlephobia/min/social-network-share.svg" />
     <img src="https://img.shields.io/badge/eslint-ok-blue.svg" />
     <a href="https://codeclimate.com/github/Sylvain59650/social-network-share/maintainability"><img src="https://api.codeclimate.com/v1/badges/27fe03303bed55ca487b/maintainability" /></a>
+    <a href="https://codeclimate.com/github/Sylvain59650/social-network-share/maintainability"><img src="https://api.codeclimate.com/v1/badges/f79aeed6bb1690a299cc/maintainability" /></a>
     <a target="_blank" title="tests" href="https://sylvain59650.github.io/social-network-share/"><img src="https://img.shields.io/badge/tests-passing-brightgreen.svg" /></a>
     <a target="_blank" title="downloads" href="https://www.jsdelivr.com/package/npm/social-network-share"><img src="https://data.jsdelivr.com/v1/package/npm/social-network-share/badge" /></a>
     <a target="_blank" title="cdn" href="https://cdn.jsdelivr.net/npm/social-network-share/distrib/social-network-share.min.js"><img src="https://img.shields.io/badge/cdn-jsdeliv-black.svg" /></a>
